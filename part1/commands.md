@@ -21,3 +21,16 @@
 8. `git push --set-upstream origin main` # Push code to online repo
 9. Check github if it worked
 
+## Push new changes
+
+1. `git add .` # Track new changes
+2. `git commit -m "MESSAGE..."` # Create commit
+3. `git push` # Push new changes online
+4. `git pull` # Get changes from online repo (remote)
+5. `git push` # Push changes to online repo (remote)
+6. Check github.com that it worked
+
+## Övning till lunch
+
+- Uppdatera lokala filer och skicka upp till remote
+- Uppdatera filer på github.com och ladda ner lokalt med git

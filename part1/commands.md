@@ -15,4 +15,9 @@
 2. `git init` # Initialize local repository
 3. Create `.gitignore` and add files/folders to ignore
 4. `git add .` # Stage all files for commit
-5. 
+5. `git commit -m "MESSAGE..."` # Create commit
+6. `git remote add origin <URL>` # Connect local repo to remote repo (replace <URL>)
+7. `git push` # Push code online... (gives error message)
+8. `git push --set-upstream origin main` # Push code to online repo
+9. Check github if it worked
+
